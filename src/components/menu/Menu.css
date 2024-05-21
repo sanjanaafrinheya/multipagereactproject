@@ -1,0 +1,54 @@
+ .naw{
+    background-color: rgb(28, 30, 83);
+  
+}
+.star a{
+    color:#fff !important;
+    padding:0px 20px;
+}
+ Button.bttn{
+    border-radius: 30px;
+    color:#fff;
+  margin-left: 40px;
+}
+.bttn a:hover{
+color:black !important;
+}
+.star a:hover{
+  color:rgb(252, 217, 128) !important;
+
+}
+
+/* 
+*********************RESPONSIVE WORK****************** */
+
+     
+
+@media (min-width: 10px) and (max-width:991px) {
+  .navbar-toggler{
+    background-color: #fff;
+    color: transparent !important;
+  }
+  .star a{
+    text-align: center;
+    padding:10px 0px;
+  }
+.bttn{
+  margin-right: 40px;
+}
+
+.navbar-toggler {
+  color:#fff !important;
+  background-color: #fff !important;
+}
+     }
+
+@media(min-width:992px)and (max-width:1199px){
+    
+}
+@media(min-width:1200px)and (max-width:1399px){
+    
+}
+@media(min-width:1400px){
+    
+}

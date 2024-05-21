@@ -1,0 +1,32 @@
+#work{
+    padding:40px 0px;
+}
+#work h3{
+    font-weight: 600;
+    font-size: 48px;
+}
+#work .party{
+    font-size: 16px;
+    font-weight: 400;
+    color:darkblue !important;
+}
+#work .touch button{
+    border:none !important;
+  
+    background: transparent;
+}
+
+.touch button a{
+    color:blue !important;
+}
+.work-text{
+    background:url(../../assets/download.jpeg) no-repeat,center / cover;
+    height:100%;
+    width:50px;
+    text-align: center;
+    line-height: 50px;
+    padding-bottom: 40px;
+}
+.work-text h5{
+    color:#fff;
+}

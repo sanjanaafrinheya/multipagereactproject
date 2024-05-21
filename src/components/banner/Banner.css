@@ -1,0 +1,82 @@
+#banner{
+    padding:60px 0px;
+    background-color: rgb(28, 30, 83);
+   
+}
+#banner h2{
+    color:#fff;
+    font-size: 45px;
+    font-weight:600px;
+}
+#banner p{
+    font-size: 14px;
+    font-weight: 400;
+    color:#fff;
+    opacity:0.5;
+}
+.view-work{
+    padding:14px 36px;
+    color:#fff !important;
+    background-color: rgb(252, 217, 128);
+    border-radius:25px;
+}
+.view-work:hover{
+    border:2px solid#fff;
+    background: transparent !important;
+}
+.view-work a{
+    color:black !important;
+}
+.view-work a:hover{
+    color:#FFF !important;
+}
+.pricing{
+    padding:14px 36px;
+    margin-left: 30px;
+    background-color:transparent;
+    border-radius:25px;
+}
+.pricing:hover{
+    border:2px solid rgb(252, 217, 128);
+}
+.pricing a{
+    color: #FFF !important;
+}
+.pricing a:hover{
+    color:rgb(252, 217, 128) !important;
+}
+
+  /* ***************RESPONSIVE PART******************* */
+  @media(max-width:767px){
+    #banner{
+        padding:70px 0px;
+    }
+    #banner h2{
+     
+        font-size: 35px;
+     
+    }
+    .button-part{
+        margin-bottom: 40px;
+    }
+    .jkgjk img{
+     width:100%;
+    }
+  }
+       
+  
+  @media (min-width: 768px)and (max-width:991px) {
+    .button-part{
+        margin-bottom: 40px;
+    }
+       }
+  
+  @media(min-width:992px)and (max-width:1199px){
+      
+  }
+  @media(min-width:1200px)and (max-width:1399px){
+      
+  }
+  @media(min-width:1400px){
+      
+  }
